@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto", "Crypto\Crypto.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{99EC0E2E-FF40-462A-9DBD-E1BE989D39BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jwt", "jwt\jwt.csproj", "{C8A20CD7-4473-4D2E-AE87-D32559239EF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{99EC0E2E-FF40-462A-9DBD-E1BE989D39BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99EC0E2E-FF40-462A-9DBD-E1BE989D39BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99EC0E2E-FF40-462A-9DBD-E1BE989D39BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A20CD7-4473-4D2E-AE87-D32559239EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A20CD7-4473-4D2E-AE87-D32559239EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A20CD7-4473-4D2E-AE87-D32559239EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A20CD7-4473-4D2E-AE87-D32559239EF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
